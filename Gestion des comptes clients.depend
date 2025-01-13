@@ -1,0 +1,29 @@
+# depslib dependency file v1.0
+1734002696 source:d:\gestion des comptes clients\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1735481690 source:e:\gestion des comptes clients\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<time.h>
+
+1736277307 source:c:\users\ilyas\desktop\porjet encadre\gestion des comptes clients\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<time.h>
+	"BankLib.h"
+
+1736629020 source:c:\users\ilyas\desktop\porjet encadre\gestion des comptes clients\banklib.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<stdbool.h>
+	<string.h>
+	<ctype.h>
+	"BankLib.h"
+
+1736567192 c:\users\ilyas\desktop\porjet encadre\gestion des comptes clients\banklib.h
+
